@@ -1,0 +1,20 @@
+[
+    {
+        "title" : "Naagin",
+        "year" : 1998,
+        "budget" : "USD 350m",
+        "cast" : "shivani, Ritik"
+    },
+    {
+        "title":"pirates of the carribean",
+        "year": 2003,
+        "budget":"USD 450m",
+        "cast":"Johnny Depp, others"
+    },
+    {
+        "title": "The forbidden kingdom",
+        "year" : 2017,
+        "budget":"USD 150m",
+        "cast": "Johnny Depp, others"
+    }
+]
